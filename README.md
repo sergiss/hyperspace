@@ -1,6 +1,6 @@
 # hyperspace
 Old School Hyperspace effect
 
-<h3> [Demo](https://sergiss.github.io/hyperspace/) </h3>
+## [Demo](https://sergiss.github.io/hyperspace/)
 
 www.sergiosoriano.com
