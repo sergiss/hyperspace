@@ -1,7 +1,7 @@
 # hyperspace
 Old School Hyperspace effect
 
-<h3><a href='https://sergiss.github.io/hyperspace/' target="_blank">Click me for '404 Page' Demo</a></h3>
+<h3><a href='https://sergiss.github.io/hyperspace/' target="_blank">Click me for Demo</a></h3>
 <a 
    href='https://sergiss.github.io/hyperspace/' 
    target="_blank">
