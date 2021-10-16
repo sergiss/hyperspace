@@ -10,7 +10,7 @@ const FILL_STYLE = '#0505050';
 const STROKE_STYLE = '#FFF';
 
 // Star Object
-const Star = function (x, y, speed = SPEED) {
+const Star = function (x, y, speed) {
   // properties  
   this.x = x;
   this.y = y;
